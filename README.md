@@ -1,5 +1,28 @@
-# Hesedi3l-Website
-Hesedi3l Website : https://hesediel.fr/
+#❤️ Hesedi3l-Website
+[HESEDIEL.FR](https://hesediel.fr/)
 
-### Website Open Source
-This is the source code [Hesedi3l Website] You are welcome to clone this code for your own personal use, just please attribute the source to the original website or to this repo. If you do clone this website, feel free to add an attribution link to your own downstream website in index.html if you want.
+> Le code est OpenSource est libre d'accès. 
+
+## 💻 CLONAGE
+
+> Voici comment importer le code :
+
+## 💻 Via GIT :
+
+    - Dans votre terminal, entrez ceci : git clone https://github.com/Hesedi3l/Loader....git
+
+## 💻 Via GITHUB :
+
+    - Téléchargez le projet en ZIP
+
+
+## 🚀 Me suivre sur les réseaux
+
+- [Github](https://github.com/Hesedi3l)
+- [Iootek Group]()
+- [Codepen](https://codepen.io/hesedi3l)
+- [Discord](https://discord.bio/p/hesediel)
+
+
+Merci de me faire part de vos retours et la petite Star ! ❤️ 
+🎉 Amusez-vous !
